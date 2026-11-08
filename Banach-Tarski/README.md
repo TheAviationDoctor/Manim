@@ -19,9 +19,8 @@ With `uv`:
 `uv run manim -pqh infinite_chocolate_manim.py InfiniteChocolate`
 
 Without `uv`:
-`manim -qh --format=mp4 infinite_chocolate_manim.py InfiniteChocolate` // High quality
-`manim -pqh infinite_chocolate_manim.py InfiniteChocolate` // High quality with preview
+`manim -qh --format=mp4 infinite_chocolate_manim.py InfiniteChocolate`
 
 ## References
 
-Vsauce. (2015, July 31). The Banach–Tarski paradox [Video]. YouTube. https://www.youtube.com/watch?v=s86-Z-CbaHA
+- Vsauce. (2015, July 31). The Banach–Tarski paradox [Video]. YouTube. https://www.youtube.com/watch?v=s86-Z-CbaHA
