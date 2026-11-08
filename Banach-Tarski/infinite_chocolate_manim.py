@@ -1,25 +1,3 @@
-"""4 x 8 'infinite chocolate' optical illusion, Manim Community Edition.
-
-Render:
-    manim -pqh infinite_chocolate_manim.py InfiniteChocolate
-    manim -qh --format=mp4 infinite_chocolate_manim.py InfiniteChocolate
-
-Every chocolate facet is fixed geometry. Reassembly uses translations only:
-no morphing, scaling, crossfading, or changing the tile count on a piece.
-
-The deliberate cheat is an overlap hidden underneath the bottom fragment.
-Both upper fragments extend a quarter-square below the visible diagonal
-before separation. Together those hidden extensions have area one square.
-Integer-grid translations (3, 1) and (-1, 0) carry the extensions into the
-finished bar. All facets then match the original 4 x 8 grid exactly, while
-one square remains separate. This is a visual illusion, not an area-preserving
-physical dissection. It adapts the sliding motion of the reference:
-https://www.youtube.com/watch?v=s86-Z-CbaHA (0:31-0:38).
-
-Requires Manim Community; no LaTeX or external assets. Render with:
-    uv run manim -pqh infinite_chocolate_manim.py InfiniteChocolate
-"""
-
 from manim import *
 import numpy as np
 
