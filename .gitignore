@@ -2,3 +2,4 @@
 .DS_Store
 /Banach-Tarski/*
 !/Banach-Tarski/infinite_chocolate_manim.py
+!/Banach-Tarski/README.md
