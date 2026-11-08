@@ -1,4 +1,4 @@
-A Manim Community Edition rendering of the 'infinite chocolate' optical illusion from Vsauce (2015) (0:31–0:38).
+A Manim Community Edition rendering of the 'infinite chocolate' optical illusion from [Vsauce (2015)](#references) (0:31–0:38).
 
 ## Rationale
 
