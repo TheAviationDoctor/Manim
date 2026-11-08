@@ -1,0 +1,3 @@
+# Keep only the animation source in this project folder.
+/Banach-Tarski/*
+!/Banach-Tarski/infinite_chocolate_manim.py
