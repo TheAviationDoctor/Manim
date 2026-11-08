@@ -1,5 +1,4 @@
 # Keep only the animation source in this project folder.
 .DS_Store
-/Banach-Tarski/*
-!/Banach-Tarski/infinite_chocolate_manim.py
-!/Banach-Tarski/README.md
+*/pyproject.toml
+*/.python-version
